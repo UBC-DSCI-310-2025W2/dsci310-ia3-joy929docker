@@ -24,5 +24,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKER_USERNAME }}/dsci310-ia3-Joy929-docker:0.1.0
-            ${{ secrets.DOCKER_USERNAME }}/dsci310-ia3-Joy929-docker:latest
+            ${{ secrets.DOCKER_USERNAME }}/dsci310-ia3-joy929-docker:0.1.0
+            ${{ secrets.DOCKER_USERNAME }}/dsci310-ia3-joy929-docker:latest
